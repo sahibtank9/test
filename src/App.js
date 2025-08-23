@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Sahib Tank
+        ઇકબાલભાઇ પોતે હો 
       </header>
     </div>
   );
